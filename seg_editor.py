@@ -288,6 +288,9 @@ class Application(tk.Frame):
             tags='handle'
         )
 
+        # TODO: figure out why sometimes a float is used for x & y
+        # often it is a very large number
+
         self.points[r] = [cur_x, cur_y]
 
         if len(self.points) > 1:
