@@ -1,2 +1,2 @@
-# ihc-image-data
-Selected data sets of immuno-histochemistry images for the development of analysis pipelines
+# lungmap-image-data
+Selected data sets of LungMAP images for the development of analysis pipelines
